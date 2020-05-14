@@ -1,1 +1,0 @@
-console.log("Hello Venkata Kola, How are you ?\n");
